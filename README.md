@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there 👋 I'm Danilo, a nice Dev!
 
 ## 🌐 Socials:
@@ -16,3 +18,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Fraank98&icon=6&color=0)](https://visitcount.itsvg.in)
+</div>
