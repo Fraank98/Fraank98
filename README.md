@@ -3,7 +3,7 @@
 # Hi there 👋 I'm Danilo, a nice Dev!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danilo-franco-08b8a3a7/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-franco-08b8a3a7/) 
 
 # 💻 My Tech Stack:
 [![My Tech stack:](https://skillicons.dev/icons?i=ts,js,html,css,sass,nodejs,nextjs,react,redux,tailwind)](https://skillicons.dev)
